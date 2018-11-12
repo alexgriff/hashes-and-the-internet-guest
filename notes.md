@@ -23,7 +23,7 @@
 - That's an API
   - make web request -> server does something depending on request -> sends response
 - additionally, API is a more generic (more powerful) term
-  - what does this idea of 'send ceratin message -> depending on message do some behavior' remind you of?
+  - what does this idea of 'send certain message -> depending on message do some behavior' remind you of?
   - OO! Ruby classes etc. have an API. The interface through which we interact with a thing. If it's not in the interface we can't do it: "Undefined method 'meow' for dog Dog Class"
 
 ## Google Books CLI
